@@ -1,0 +1,2 @@
+# MobileApplicationDevelopmentAssignments
+Assignments for MAD
